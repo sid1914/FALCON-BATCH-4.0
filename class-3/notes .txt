@@ -1,0 +1,22 @@
+# CSS Types:-
+1-inine
+2-external style
+3-internal style
+
+```javascript
+inline style:
+style-"colour:red"
+
+```
+
+javascript
+internal style:
+<style>
+```
+</style>
+
+```
+
+```javascript
+external style:
+<link rel="stylesheet" href="style.css">

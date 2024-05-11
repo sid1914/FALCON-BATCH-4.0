@@ -1,0 +1,14 @@
+//how to comment in single line 
+ans: ctrl+/
+how to comment in multiple line 
+ans:ctrl+shift+/
+
+what is selector?
+ans: selector is way to select the HTML element to modifiy the style and design.
+
+types of selector?
+ans:
+   1.id selector(followed by # symbol)
+   2.class selector(followed by . symbol)
+   3.element selector(example: h1......h6,p,img etc)
+   4.universal selector(followed by * symbol)

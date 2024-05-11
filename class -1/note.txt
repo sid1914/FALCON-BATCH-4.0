@@ -1,0 +1,53 @@
+img- image tag that helps to insert the image 
+attributes-attributes is propertise of 
+ex - href & target is the two attributes of anchor taghr
+<hr>- horizontal line 
+href- hyper reference -referance to the another page  or another element.
+target-
+_self -  when we are click the link the page autometicaly open in the coressponding page .
+_blank-when we are click the link in the page open with the new tag/new page .
+table :- normally we draw table data format  in our web page.
+tr- table row
+th - table heading
+td- table data
+list ;-
+list are two types 
+1. unordered list (ul)
+2.odered list (ol)
+-list item (li)
+forms->
+ when we are put somthings for dynamic our web pages like ffillup the form so we design it in our web page 
+ form - main tag
+
+ html input types :-
+ <input type ="button">
+ <input type ="checkbox">
+ <input type ="color">
+ <input type ="date">
+ <input type ="email">
+ <input type ="month">
+ <input type ="number">
+ <input type ="hidden">
+ <input type ="password">
+ <input type ="radio">
+ <input type ="range">
+ <input type ="search">
+ <input type ="submit">
+ <input type ="tel">
+ <input type ="text">
+ put t<inype ="time">
+ put t<inype ="url">
+put t<inype ="week">
+
+
+
+
+
+
+GIT;-
+git is open source,version control system to help us for store share,manipulate and collaborate the code file from one to one position .
+ex. gitlab,github etc...
+
+repository-it means a Folder of a project.
+ 
+air67264

@@ -1,0 +1,13 @@
+.heading{
+    color: darkorange; text-align: center; text-decoration: underline;
+
+}
+#class{
+    color: darkblue;    
+}
+p{
+    height:40px; font-style: italic;
+}
+img{
+    height: 300px; width: 200px;
+}
